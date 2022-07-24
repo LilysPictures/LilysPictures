@@ -48,7 +48,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I study algorithms and draw.
 
-- :mailbox:How to reach me:   <img src="https://img.shields.io/badge/Telegram-%40LilysPictures-9cf" alt="Telegram Badge" href="https://t.me/LilysPictures"/> 
+- :mailbox: How to reach me:   <img src="https://img.shields.io/badge/Telegram-%40LilysPictures-9cf" alt="Telegram Badge" href="https://t.me/LilysPictures"/> 
+- :sweat_smile: I devote a lot of time to my work, so my Github stats below are not very good.
    
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LilysPictures)](https://git.io/streak-stats)</br>
