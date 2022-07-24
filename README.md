@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h2>Hi! My name is Lil ! I live in St. Petersburg. Since 2021 I have been working as a frontend developer. I will be glad to meet new people.</h2>
 
 <!--
 **LilysPictures/LilysPictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  
+### <div align="center"> Hi there! 👋</div>
+<div id="header" align="center">  
+  <img src="https://user-images.githubusercontent.com/87022711/180642834-c7caae9c-b0ee-4b88-9ed6-e7d6085fb512.gif" width="400"/>  
+ <div id="badges">  
+  <a href="https://t.me/LilysPictures">  
+    <img src="https://img.shields.io/badge/Telegram-%40LilysPictures-9cf" alt="Telegram Badge"/> 
+  </a>  
+  <a href="https://www.linkedin.com/in/lilyspictures">
+    <img src="https://img.shields.io/badge/LinkedInn-@LilysPictures-blue" alt="LinkedIn Badge"/> 
+  </a>     
+  <a href="https://www.instagram.com/lilyspictures_art">
+    <img src="https://img.shields.io/badge/Instagram-@LilysPictures__art-red" alt="Instagram Badge"/>
+  </a>  
+  <a href="https://www.lilyspictures.com">
+    <img src="https://img.shields.io/badge/Website-LilysPictures.com-green" alt="My website Badge"/>
+  </a>  
 </div>
+</div>
+
