@@ -44,12 +44,10 @@
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Software Engineer in a construction company. We are developing Common Data Environment. This is an application for storing and working with information models and documents.
-
+- :telescope: I’m working as a Software Engineer in a construction company. We are developing Common Data Environment, it is an application for storing and working with information models and documents.
 - :zap: In my free time, I study algorithms and draw.
-
 - :mailbox: How to reach me:   <img src="https://img.shields.io/badge/Telegram-%40LilysPictures-9cf" alt="Telegram Badge" href="https://t.me/LilysPictures"/> 
-- :sweat_smile: I devote a lot of time to my work, so my Github stats below are not very good.
+- :sweat_smile: I`m devoting a lot of time to my work, so my Github stats below are not very good.
    
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LilysPictures)](https://git.io/streak-stats)</br>
