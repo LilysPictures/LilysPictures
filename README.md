@@ -1,20 +1,4 @@
 ### <h4> Hi, my name is Lily! </br> I live in St. Petersburg. Since 2021 I have been working as a frontend developer. </br> I will be glad to meet new people.</h4>
-
-<!--
-**LilysPictures/LilysPictures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### <div align="center"> Hi there! 👋</div>
 <div id="header" align="center">  
   <img src="https://user-images.githubusercontent.com/87022711/180642834-c7caae9c-b0ee-4b88-9ed6-e7d6085fb512.gif" width="400"/>  
@@ -34,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 </div>
 <h2> </h2>
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 <div >
  <h4> Visual part: </h4>
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" />&nbsp;
@@ -66,8 +50,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me:   <img src="https://img.shields.io/badge/Telegram-%40LilysPictures-9cf" alt="Telegram Badge" href="https://t.me/LilysPictures"/> 
    
-
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LilysPictures)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilysPictures&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
