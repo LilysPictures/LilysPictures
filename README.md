@@ -50,7 +50,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox: How to reach me:   <img src="https://img.shields.io/badge/Telegram-%40LilysPictures-9cf" alt="Telegram Badge" href="https://t.me/LilysPictures"/> or e-mail: lili-g-semenova@yandex.ru
  
 - :sweat_smile: I`m devoting a lot of time to my work, so my Github stats below are not very good.
-   
+  
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LilysPictures)](https://git.io/streak-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilysPictures&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LilysPictures)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilysPictures&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
