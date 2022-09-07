@@ -1,4 +1,4 @@
-### <h4> Hi, my name is Lily! </br> I live in St. Petersburg. Since 2021 I have been working as a frontend developer. I will be glad to meet new people.</h4>
+### <h4> Hi, my name is Lily! </br> I live in St. Petersburg. Since 2020 I have been working as a frontend developer. I will be glad to meet new people.</h4>
 ### <div align="center"> Hi there! 👋</div>
 <div id="header" align="center">  
   <img src="https://user-images.githubusercontent.com/87022711/180642834-c7caae9c-b0ee-4b88-9ed6-e7d6085fb512.gif" width="400"/>  
