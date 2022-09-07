@@ -20,7 +20,7 @@
 <h2> </h2>
 :hammer_and_wrench: Languages and Tools :
 <div align="center">
- <h4> - Visual part: </h4>
+ // <h4> - Visual part: </h4> //
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"  title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
